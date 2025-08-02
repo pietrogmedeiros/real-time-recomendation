@@ -254,23 +254,11 @@ Recomendações para movie_lover:
 - [ ] Monitoramento com Prometheus
 - [ ] Testes de carga
 
-## 🤝 Contribuindo
 
-1. Fork o projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
-
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## 👨‍💻 Autor
 
 **Pietro Medeiros**
 - GitHub: [@pietrogmedeiros](https://github.com/pietrogmedeiros)
-- LinkedIn: [Pietro Medeiros](https://linkedin.com/in/pietro-medeiros)
+- LinkedIn: [Pietro Medeiros](https://www.linkedin.com/in/pietro-medeiros-770bba162/)
 
 ---
 
