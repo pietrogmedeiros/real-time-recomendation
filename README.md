@@ -255,9 +255,6 @@ Recomendações para movie_lover:
 - [ ] Testes de carga
 
 
-
-**Pietro Medeiros**
-- GitHub: [@pietrogmedeiros](https://github.com/pietrogmedeiros)
 - LinkedIn: [Pietro Medeiros](https://www.linkedin.com/in/pietro-medeiros-770bba162/)
 
 ---
